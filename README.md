@@ -1,4 +1,4 @@
 # HelloJS
 Study for JavaScript.
-It is for Branch study!
-for bug 101
+It's for merge test.
+
